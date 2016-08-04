@@ -1,0 +1,31 @@
+_repo: Childe-Harold-s-Pilgrimage_5131
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Byron, George Gordon Byron, Baron
+    aliases:
+    - Byron, George Gordon Noël Byron, Baron
+    - Byron, George Gordon Noel Byron, Baron
+    birthdate: 1788
+    deathdate: 1824
+    gutenberg_agent_id: '1708'
+    url: http://www.gutenberg.org/2009/agents/1708
+    wikipedia: http://en.wikipedia.org/wiki/George_Gordon_Byron,_6th_Baron_Byron
+description: '[Vol. 1]. Chants I & II / traduits en vers par Florence Guilhot & Jean-Louis
+  Paul -- [v. 2]. Chants II et IV.'
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Pilgrims and pilgrimages -- Europe -- Poetry'
+- !lcsh 'English poetry'
+- GITenberg
+title: Childe Harold's Pilgrimage
+url: http://www.gutenberg.org/ebooks/5131
